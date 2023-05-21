@@ -1,7 +1,7 @@
 
 # Car Showroom Project
 
-In this Project, customers can select and purchase the car of their choice through the showroom website interface.
+In this console base project, customers can select and purchase the car of their choice through the showroom website interface.
 
 
 
